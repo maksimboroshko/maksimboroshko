@@ -8,18 +8,17 @@
 
 имею экспертизу в:
 <p align="center">
-  <img width="6%" title="IntelliJ IDEA" src="src/logo/Intelij_IDEA.svg">
-  <img width="6%" title="Java" src="src/logo/Java.svg">
-  <img width="6%" title="Selenide" src="src/logo/Selenide.svg">
-  <img width="6%" title="Selenoid" src="src/logo/Selenoid.svg">
-  <img width="6%" title="Allure Report" src="src/logo/Allure_Report.svg">
-  <img width="5%" title="Allure TestOps" src="src/logo/AllureTestOps.svg">
-  <img width="6%" title="Gradle" src="src/logo/Gradle.svg">
-  <img width="6%" title="JUnit5" src="src/logo/JUnit5.svg">
-  <img width="6%" title="GitHub" src="src/logo/GitHub.svg">
-  <img width="6%" title="Jenkins" src="src/logo/Jenkins.svg">
-  <img width="6%" title="Maven" src="src/logo/Maven.svg">
-  <img width="5%" title="Jira" src="src/logo/Jira.svg">
+ <img width="10%" title="IntelliJ IDEA" src="src/logo/inteliJ_IDEA.svg">
+  <img width="10%" title="Java" src="src/logo/Java.svg">
+  <img width="10%" title="Selenide" src="src/logo/Selenide.svg">
+  <img width="10%" title="Selenoid" src="src/logo/Selenoid.svg">
+  <img width="10%" title="Allure Report" src="src/logo/Allure_Report.svg">
+  <img width="10%" title="Allure TestOps" src="src/logo/AllureTestOps.svg">
+  <img width="10%" title="Gradle" src="src/logo/Gradle.svg">
+  <img width="10%" title="JUnit5" src="src/logo/JUnit5.svg">
+  <img width="10%" title="GitHub" src="src/logo/GitHub.svg">
+  <img width="10%" title="Jenkins" src="src/logo/Jenkins.svg">
+  <img width="10%" title="Jira" src="src/logo/Jira.svg">
 </p>
 
 ---
