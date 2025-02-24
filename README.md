@@ -1,4 +1,4 @@
-## Всем привет  меня зовут Максим  (https://www.linkedin.com/in/...)](https://www.linkedin.com/in/maksim-boroshko/) и я  AQA Engineer 
+## Всем привет  меня зовут Максим и я  AQA Engineer 
 
 Я мануальный тестировщик с 2020 года, сейчас развиваюсь в направлении автоматизации тестирования.  
 🌱 В данный момент изучаю Java для AQA  
@@ -25,8 +25,8 @@
 ---
 
 ## 💻 Pet-projects
-- <a target="_blank" href="https://github.com/maksimboroshko/diploma">ПервыйПроект</a> – Автотесты для сайта Авито
-- <a target="_blank" href="https://github.com/maksimboroshko/diploma_Api">ВторойПроект</a> – Автотесты для API 
+- <a target="_blank" href="https://github.com/maksimboroshko/diploma">ui-tests</a> – Автотесты для сайта Авито
+- <a target="_blank" href="https://github.com/maksimboroshko/diploma_Api">Api-tests</a> – Автотесты для API 
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 💬 Ways to reach me
 
-- <img width="2.5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/ariistokarat">@ВАШ-ТЕЛЕГРАМ</a>
-- <img width="2.5%" title="LinkedIn" src="src/logo/Linkedin.svg"> <a target="_blank" href="https://www.linkedin.com/in/maksim-boroshko/">LinkedIn</a>
+- <img width="2.5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/ariistokarat">@ariistokarat</a>
+- <img width="2.5%" title="LinkedIn" src="src/logo/Linkedin.svg"> <a target="_blank" href="https://www.linkedin.com/in/maksim-boroshko/">maksim-boroshko</a>
 
 
