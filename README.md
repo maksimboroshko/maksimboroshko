@@ -8,7 +8,7 @@
 
 имею экспертизу в:
 <p align="center">
- <img width="10%" title="IntelliJ IDEA" src="src/logo/inteliJ_IDEA.svg">
+ <img width="10%" title="intelij_IDEA" src="src/logo/inteliJ_IDEA.svg">
   <img width="10%" title="Java" src="src/logo/Java.svg">
   <img width="10%" title="Selenide" src="src/logo/Selenide.svg">
   <img width="10%" title="Selenoid" src="src/logo/Selenoid.svg">
