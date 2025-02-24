@@ -1,8 +1,8 @@
 ## Всем привет  меня зовут Максим и я  AQA Engineer 
 
 Я мануальный тестировщик с 2020 года, сейчас развиваюсь в направлении автоматизации тестирования.  
-🌱 В данный момент изучаю Java для AQA  
-💼 В настоящее время работаю в Neo Group
+ В данный момент изучаю Java для AQA  
+ В настоящее время работаю в Neo Group
 
 ---
 
@@ -23,13 +23,13 @@
 
 ---
 
-## 💻 Pet-projects
+## 💻 Проекты
 - <a target="_blank" href="https://github.com/maksimboroshko/diploma">ui-tests</a> – Автотесты для сайта Авито
 - <a target="_blank" href="https://github.com/maksimboroshko/diploma_Api">Api-tests</a> – Автотесты для API 
 
 ---
 
-## 💹 My stats
+## 💹 Статистика
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maksimboroshko&theme=blueberry" alt="Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimboroshko&layout=compact&theme=blueberry" alt="Languages">
@@ -37,7 +37,7 @@
 
 ---
 
-## 💬 Ways to reach me
+## 💬 Связаться со мной можно тут
 
 - <img width="2.5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/ariistokarat">@ariistokarat</a>
 - <img width="2.5%" title="LinkedIn" src="src/logo/Linkedin.svg"> <a target="_blank" href="https://www.linkedin.com/in/maksim-boroshko/">maksim-boroshko</a>
